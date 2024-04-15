@@ -1,0 +1,4 @@
+17:38:3 =>[info] first log message!
+17:38:3 =>[error] service_name:FriendServiceRpc
+17:38:3 =>[error] method_name:GetFriendsList
+17:38:3 =>[error] /home/parallels/cpp/mprpc/example/callee/friendservice.cc:main:52
